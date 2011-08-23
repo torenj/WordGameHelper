@@ -8,7 +8,7 @@ counts = {'a':7, 'b': 4, 'c': 2, 'd': 5, 'e': 9, 'f': 3, 'g': 3,'h': 2,'i': 4,
 def load_words():
     lines = []
   #file = open("D:\\Dropbox\\development\\Python\\Portable_Python_3.2.0.1\\words-da")
-    file = open("/home/tore/Dropbox/development/WordGameHelper/words-da")
+    file = open("/home/tore/Dropbox/development/WordGameHelper/words-da2")
     while True:
         line = file.readline()
         line = line.strip()

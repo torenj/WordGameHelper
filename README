@@ -1,0 +1,9 @@
+word list is from 
+http://da.speling.org/filer/
+
+Have Python 3 installed.
+words-da is a danish dictionary
+wordgame_da.py is the python script to run
+
+from commandline:
+python wordgame_da.py
